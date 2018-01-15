@@ -7,5 +7,5 @@ This package fixes code completion for PhpUnit. Currently it only supports `crea
 ## Instalation
 
 ```bash
-composer install tomasfejfar/phpunit-phpstorm-meta 
+composer require --dev tomasfejfar/phpunit-phpstorm-meta 
 ```
