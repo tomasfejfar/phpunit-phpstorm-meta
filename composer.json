@@ -1,0 +1,16 @@
+{
+  "name": "tomasfejfar/phpunit-phpstorm-meta",
+  "description": "Improved code completion for PhpUnit in PhpStorm",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tomáš Fejfar",
+      "email": "tomas.fejfar@gmail.com",
+      "homepage": "https://www.tomasfejfar.cz/"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "*"
+  }
+}
